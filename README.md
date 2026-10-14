@@ -95,6 +95,3 @@ The business wants to understand how its online store is performing. This projec
 ---
 
 
-Aspiring Data Analyst | Excel · SQL · Power BI
-
-🔗 [LinkedIn](https://www.linkedin.com/) · 💻 [GitHub](https://github.com/)
